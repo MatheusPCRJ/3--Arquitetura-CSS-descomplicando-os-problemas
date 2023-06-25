@@ -1,0 +1,6 @@
+.menu__item__PCRJ {
+    list-style: none;
+}
+.menu__item__PCRJ:last-child .menu__link__PCRJ {
+    margin-right: 0;
+}

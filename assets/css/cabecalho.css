@@ -1,0 +1,8 @@
+.cabecalho__PCRJ {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #f9f9f9;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

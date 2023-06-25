@@ -1,0 +1,13 @@
+.menu__link__PCRJ {
+    color: #808080;
+    margin-right: 1.25rem;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+.menu__link__PCRJ .ativo__PCRJ {
+    color: #333333;
+    font-weight: bold;
+}
+.menu__link__PCRJ:hover {
+    text-decoration: underline;
+}
