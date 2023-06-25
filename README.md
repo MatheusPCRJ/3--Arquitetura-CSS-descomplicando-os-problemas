@@ -1,4 +1,4 @@
-<div id="topo"</div>
+<div id="topo"></div>
 <div align="center"> <h1>Hortifruti Fruta e Fruto</h1> 
 
 <h3> Tema: Arquitetura CSS descomplicando os problemas</h3> </div>
