@@ -4,7 +4,7 @@
     text-decoration: none;
     text-transform: lowercase;
 }
-.menu__link__PCRJ .ativo__PCRJ {
+.menu__link__PCRJ.ativo__PCRJ {
     color: #333333;
     font-weight: bold;
 }
